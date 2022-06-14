@@ -1,0 +1,36 @@
+h1 {
+  background-color:aqua;
+  color:white;
+  font-size: 64px;
+  text-align: left;
+}
+
+h2 {
+  color: darkgreen;
+}
+
+h3 {
+  color: darkred;
+}
+
+h4 {
+  color: darkblue;
+}
+
+ul {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ol {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  font-style:italic;
+}
+
+p.backlink {
+  font-family: monospace;
+  font-size:18px;
+  font-style: normal;
+}
